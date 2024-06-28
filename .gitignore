@@ -7,4 +7,5 @@ hs_err_pid*
 .idea
 .bsp
 project/target
+project/target/*
 target
